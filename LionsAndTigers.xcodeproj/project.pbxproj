@@ -81,13 +81,10 @@
 		81F4D60819E730C3000FE332 /* LionsAndTigers */ = {
 			isa = PBXGroup;
 			children = (
-				81F4D60D19E730C3000FE332 /* AppDelegate.h */,
-				81F4D60E19E730C3000FE332 /* AppDelegate.m */,
 				81F4D61019E730C3000FE332 /* ViewController.h */,
 				81F4D61119E730C3000FE332 /* ViewController.m */,
 				81F4D61319E730C3000FE332 /* Main.storyboard */,
 				81F4D61619E730C3000FE332 /* Images.xcassets */,
-				81F4D61819E730C3000FE332 /* LaunchScreen.xib */,
 				81F4D60919E730C3000FE332 /* Supporting Files */,
 			);
 			path = LionsAndTigers;
@@ -96,6 +93,9 @@
 		81F4D60919E730C3000FE332 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				81F4D61819E730C3000FE332 /* LaunchScreen.xib */,
+				81F4D60D19E730C3000FE332 /* AppDelegate.h */,
+				81F4D60E19E730C3000FE332 /* AppDelegate.m */,
 				81F4D60A19E730C3000FE332 /* Info.plist */,
 				81F4D60B19E730C3000FE332 /* main.m */,
 			);
